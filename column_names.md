@@ -4,14 +4,14 @@
 - **dateDate** - house was sold
 - **pricePrice** - is prediction target
 - **bedroomsNumber** - # of bedrooms
-- **bathroomsNumber** - # of bathrooms
+- **bathroomsNumber** - # of bathrooms (1 full-bathroom [toilet, sink, shower head & tub] + 3/4-bath [toilet, sink, & shower head] + 1/2-bath [toilet and sink] = 2.25 bathrooms)
 - **sqft_livingsquare** - footage of the home
 - **sqft_lotsquare** - footage of the lot
 - **floorsTotal** - floors (levels) in house
 - **waterfront** - House which has a view to a waterfront
 - **view** - quality of view
 - **condition** - How good the condition is ( Overall )
-- **grade** - overall grade given to the housing unit, based on King County grading system
+- **grade** - overall grade given to the housing unit, based on King County grading system (Classification by construction quality which refers to the types of materials used and the quality of workmanship. Buildings of better quality (higher grade) cost more to build per unit of measure and command higher value. Additional information in: KingCounty)
 - **sqft_above** - square footage of house apart from basement
 - **sqft_basement** - square footage of the basement
 - **yr_built** - Built Year

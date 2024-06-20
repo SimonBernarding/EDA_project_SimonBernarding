@@ -35,7 +35,7 @@ _Note, you can take either the perspective of a buyer or a seller. Choose a clie
 
 # The clients
 
-- Please choose a client.
+- Please choose a client: Thomas Hansen
 
 _Note: As these clients are made up (any resemblance to present people is absolutely random), please make assumptions about answers they would give to your questions. (i.e. How do you define a rich neighborhood? take the zipcodes with most houses in upper 10% percentile..). Whatever assumptions you make, please write them explicitly in your presentation and notebook._
 
